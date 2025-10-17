@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BeritaRakyat</string>
+    <string name="toolbar_title">Berita Rakyat</string>
+
+    <!-- Konten berita -->
+    <string name="news_text_1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae sapien ut libero venenatis faucibus.</string>
+    <string name="news_text_2">Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit.</string>
+    <string name="news_text_3">Nam commodo suscipit quam. Quisque id odio. Praesent venenatis metus at tortor pulvinar varius.</string>
+
+    <!-- Tombol -->
+    <string name="btn_maafkan">Maafkan</string>
+    <string name="btn_adili">Adili</string>
+    <string name="btn_lanjutkan">Lanjutkan</string>
+</resources>
